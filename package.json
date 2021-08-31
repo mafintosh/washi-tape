@@ -1,0 +1,20 @@
+{
+  "name": "washi-tape",
+  "version": "0.0.0",
+  "description": "Tape Planner Promise",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^5.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/washi-tape.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/washi-tape/issues"
+  },
+  "homepage": "https://github.com/mafintosh/washi-tape"
+}
